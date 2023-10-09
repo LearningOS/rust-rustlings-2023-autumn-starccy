@@ -98,5 +98,6 @@
 ✅ tests8 pass
 ✅ tests9 pass
 ✅ tests7 pass
+✅ just_for_test pass
 
-Points: 100/100
+Points: 101/101
