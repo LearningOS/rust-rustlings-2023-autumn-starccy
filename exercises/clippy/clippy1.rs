@@ -8,7 +8,7 @@
 //
 // Execute `rustlings hint clippy1` or use the `hint` watch subcommand for a
 // hint.
-
+   
 use std::f32;
 
 fn main() {
