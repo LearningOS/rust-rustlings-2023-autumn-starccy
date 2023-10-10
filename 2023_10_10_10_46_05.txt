@@ -99,5 +99,6 @@
 ✅ tests9 pass
 ✅ from_into pass
 ✅ from_into pass
+✅ just_for_test pass
 
 Points: 101/101
